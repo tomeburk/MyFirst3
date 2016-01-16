@@ -1,4 +1,4 @@
 #' Title
 dummy <- function(dum) {
-  print("A nothin function")
+  print("A nothin function!")
 }
